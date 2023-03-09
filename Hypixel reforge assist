@@ -1,1 +1,14 @@
 
+password = input ('enter item you want to reforge all lowercase ')
+if password == ('aspect of the end'):
+    print ('spicy')
+elif password == ('aspect of the void'):
+	print ('warped')
+elif password == ('aspect of the dragons'):
+	print ('fabled')
+elif password == ('wise dragon armor'):
+	print ('necrotic')
+	elif password == ('storm armor'):
+	print ('necrotic')
+else:
+	print ('this is not a item')
